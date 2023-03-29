@@ -1,83 +1,27 @@
-#wall .tag1 {
+#wall .tag-1 {
     display: none;
 }
 
-#class .tag1 {
+#wall div#tag-2 {
     display: none;
 }
 
-#class .tag5 {
+#wall div#tag-3.slick.wicked {
     display: none;
 }
 
-#parent {
+#wall div.parent #tag-4 {
     display: none;
 }
 
-#tag-2 {
+div#wall div.parent #tag-5.slick {
     display: none;
 }
 
-#wall .tag5 {
+body div#wall div.parent div:nth-child(2) div#tag-6 {
     display: none;
 }
 
-#wall .tag2 {
-    display: none;
-}
-
-#wall .tag1 {
-    display: none;
-}
-
-#class .tag1 {
-    display: none;
-}
-
-#class .tag5 {
-    display: none;
-}
-
-#parent {
-    display: none;
-}
-
-#tag-2 {
-    display: none;
-}
-
-#wall .tag5 {
-    display: none;
-}
-
-#wall .tag2 {
-    display: none;
-}
-
-#wall .tag1 {
-    display: none;
-}
-
-#class .tag1 {
-    display: none;
-}
-
-#class .tag5 {
-    display: none;
-}
-
-#parent {
-    display: none;
-}
-
-#tag-2 {
-    display: none;
-}
-
-#wall .tag5 {
-    display: none;
-}
-
-#wall .tag2 {
+body div#wall div.parent div > div#tag-7.slick {
     display: none;
 }
